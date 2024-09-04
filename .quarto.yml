@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "STA 2024 xxxx1 Submission Material"
+  description:
+    Course Projects for STA 9750 at Baruch College
+  site-url: "https://daokienau.github.io/STA-2024-xxxx1/"
+  navbar:
+    background: primary
+    search: false
+    
+format:
+  html:
+    theme: sandstone
+    toc: false
