@@ -1,0 +1,7 @@
+---
+title: "Testing a new site for class"
+---
+This is a site body
+
+don't know what to include in here yet
+
